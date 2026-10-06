@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Giovannna03
+- 👋 Hi, I’m Giovannna
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javacript
 - 📫 How to reach me: email mariagiovannagiannotta@gmail.com 
